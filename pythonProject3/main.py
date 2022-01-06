@@ -20,7 +20,7 @@ weather = "easv/weather"
 gas = "easv/gas"
 light = "easv/light"
 
-#led = PWMLED(25)
+led = PWMLED(25)
 
 routing_key = "WeatherEvent"
 exchange = "weather_exchange"
